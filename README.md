@@ -1,4 +1,4 @@
-## 📁 Struktur Proyek Kelompok GEGEGGL
+## 📁 Struktur Proyek Kelompok GEGEEL
 ```
 Geegel/
 ├── elia/
